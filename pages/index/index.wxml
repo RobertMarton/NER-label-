@@ -1,0 +1,4 @@
+<button bindtap="uploadExcel">上传excel文件</button>
+<button bindtap="openExcel">下载并打开excel文件</button>
+<button bindtap="upload">上传图片</button>
+<image src="{{imgUrl}}"></image>
